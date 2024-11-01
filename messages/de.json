@@ -1,0 +1,13 @@
+{
+  "TradePage": {
+    "title": "Tradensi",
+    "bots": "Botsaugh"
+  },
+  "BotsPage": {
+    "title": "Botsishen",
+    "trade": "Tradensi"
+  },
+  "Common": {
+    "badge": "Badgeionz"
+  }
+}

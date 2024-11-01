@@ -1,0 +1,16 @@
+{
+  "TradePage": {
+    "title": "Trade Page",
+    "bots": "Bots"
+  },
+  "BotsPage": {
+    "title": "Bots Page",
+    "trade": "Trade"
+  },
+  "Common": {
+    "badge": "Badge localised"
+  },
+  "Hidden": {
+    "label": "Hidden component"
+  }
+}
